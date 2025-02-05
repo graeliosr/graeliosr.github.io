@@ -13,8 +13,8 @@ body {
     font-weight: bold;
     margin-bottom: 80px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    font-family: "Comic Sans MS", cursive, sans-serif;
-    background: linear-gradient(45deg, #eeaeca, #94bbe9);
+    font-family: Chalkduster, fantasy, sans-serif;
+    background: linear-gradient(45deg, #ee77ab, #4b89d4);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
