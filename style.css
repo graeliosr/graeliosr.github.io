@@ -274,7 +274,7 @@ body {
     .candle {
         width: 8px;
         height: 30px;
-        margin-top: 30px;
+        margin-top: 80px;
     }
 
     .balloon {
@@ -283,6 +283,6 @@ body {
     }
 
     .balloon::after {
-        height: 40px;
+        height: 60px;
     }
 }
